@@ -1,4 +1,14 @@
-# Rave - Application d'Enregistrement Audio et Transfert via Serveur
+
+## Lancement de l'application
+
+Pour lancer l'application sur votre appareil mobile, ouvrez ce lien Expo avec un navigateur, puis scannez le QR code affiché avec l'application Expo Go :
+
+[Ouvrir la page Expo pour le QR code](https://expo.dev/preview/update?message=Initial+publish&updateRuntimeVersion=1.0.0&createdAt=2025-07-11T12%3A59%3A59.876Z&slug=exp&projectId=91af44a5-35b4-4d47-a26d-8253f006d06a&group=40d582bd-5353-478f-801b-9a17b37d5ada)
+
+
+
+
+# Rave - Application d'Enregistrement Audio via Transfert  Serveur et Transformation
 
 Rave est une application mobile React Native développée avec Expo qui permet d'enregistrer des sons, de les sauvegarder localement, puis de les transférer vers un serveur pour traitement. L'application offre une interface intuitive avec gestion des enregistrements audio, lecture, suppression, et upload vers un serveur distant. 
 
@@ -36,18 +46,18 @@ Elle permet également de transformer les enregistrements audio en appliquant di
 1. **Cloner le dépôt**
 
 ```bash
-git clone <>
+git clone <https://github.com/SMaitriya/Rave.git>
 cd rave
+
 
 
 ##Installer les dépendances
 
-bash
-Copier
-Modifier
+```bash
 npm install
 # ou
 yarn install
+```
 
 
 ## Utilisation
