@@ -72,6 +72,8 @@ yarn install
 
 - Vos enregistrements apparaissent dans la liste où vous pouvez les écouter ou supprimer.
 
+- Transformez vos audios
+
 - L'application envoie automatiquement les fichiers vers un serveur si l'IP et le port sont configurés dans Redux.
 
 ---
